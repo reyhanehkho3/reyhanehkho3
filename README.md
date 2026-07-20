@@ -1,16 +1,28 @@
-## Hi there 👋
+# Reyhaneh Khosravi
 
-<!--
-**reyhanehkho3/reyhanehkho3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about
 
-Here are some ideas to get you started:
+Currently student at Ferdowsi Univercity of Mashhad.  
+Filed of study: Computer Science.
+Coding since 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## skills
+
+`java` `c` `kotlin` `python`  `sql`
+
+---
+
+## projects
+
+[**Online Taxi Management**](https://github.com/reyhanehkho3/OnlineTaxi) 
+[**Parking Lot Mangement**](https://github.com/reyhanehkho3/ParkingLot) 
+
+---
+
+## connect
+
+[linkedin](linkedin.com/in/reyhaneh-khosravi-955292397/) . [website](link)
+
+---
